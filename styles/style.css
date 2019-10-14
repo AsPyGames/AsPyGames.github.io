@@ -1,0 +1,137 @@
+h1
+{
+	font-family: Castellar;
+	color: black ;
+}
+
+h2
+{
+	color: black; 
+	font-family: Algerian;
+}
+
+body
+{
+	background-image:url(fonds/mur.jpg);
+	background-position: center center;
+	background-attachment: fixed;
+	background-size: cover;
+}
+
+#AsPy
+{
+	width: 100%;
+	margin:0 auto;
+	background-image: linear-gradient(pink, white, white);
+	text-align: center;
+	align-content: center;
+	border: solid 3px brown;
+}
+
+#AsPy
+img
+ {
+	float true 
+	float:left; 
+}
+
+
+#corps
+{
+    width: 75%;
+	margin:0 auto;
+	text-align: center;
+	align-content: center;
+	border: solid 3px yellow;
+	background-image: linear-gradient(#ffffff, #eee0e0);
+}
+
+#texte
+{
+    width: 70%;
+	margin:0 auto;
+	text-align: left;
+	align-content: left;
+}
+
+
+a:hover 
+{
+	color: orange;
+}
+
+a:active
+{
+	color: yellow;
+}
+
+table 
+{
+	border: medium solid #6495ed;
+	width: 90%;
+}
+
+th 
+{
+	width: 50%;
+}
+
+td 
+{
+	font-family: sans-serif;
+	border: thin solid #6495ed;
+	width: 50%;
+	padding: 10px;
+	text-align: center;
+	background-color: #ffffff;
+}
+
+#image
+
+	img
+		{
+		border: solid 4px silver;
+		}
+
+
+#soustitre
+{
+	font-family : Elephant; 
+}
+
+
+#centretitre
+{
+	margin-right: 120px;
+}
+
+
+
+
+#menu
+{
+  list-style:none;
+  width: 100%;
+}
+#menu li
+{ 
+   background-image: linear-gradient(to bottom, #1e1752 0%,pink 15%, blue 90%);
+   border-radius: 6px;
+   border:solid 1px #333A40
+}
+
+#menu a
+{
+  display:block;
+  text-decoration: none;
+  color: #fff;
+  padding: 12px 0;
+  font-family: Broadway;
+  font-size:1.3em 
+}
+
+#menu  li:hover
+ {
+   background: #221780
+}
+
